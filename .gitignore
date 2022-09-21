@@ -13,5 +13,5 @@
 .externalNativeBuild
 .cxx
 local.properties
-/myapplication/Mainactivity.java
-/layout/activity_main.xml
+app/src/main/java/com/example/myapplication/MainActivity.java
+app/src/main/res/layout/activity_main.xml
